@@ -56,7 +56,3 @@ Use a local MongoDB instance or a free MongoDB Atlas cluster, and paste the conn
 | Owner | `/api/owner/restaurant`, `/api/owner/bookings`, `/api/owner/bookings/:id/status` |
 | Admin | `/api/admin/restaurants`, `/api/admin/restaurants/:id/approve`, `/api/admin/stats` |
 
-## Notes
-This is a learning/portfolio scaffold — functional end-to-end, but light on production concerns like
-input validation libraries (e.g. Zod), rate limiting, pagination, and automated tests. Good next steps
-if you want to extend it further for a resume project.
